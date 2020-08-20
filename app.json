@@ -1,0 +1,11 @@
+{
+    "name": "photo-gallery-web-app",
+    "description": "photo-gallery Web App",
+    "keywords": [
+      "app-cloud"
+    ],
+    "repository": "https://github.com/karsonleunghkt/photo-gallery/",
+    "addons": [
+      "heroku-postgresql"
+    ]
+  }
